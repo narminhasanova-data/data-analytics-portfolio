@@ -1,12 +1,25 @@
-# data-analytics-portfolio
-This repository contains my data analytics projects using R, SQL and Tableau.
+## Sales Data Analysis using R
 
-## Projects
-- Sales Analysis using R
-- SQL Analysis (basic queries)
-- Tableau Dashboards
+This project analysis sales data to identify yearly sales trends and key insights.
 
-## Tools & Skills
-- R (tidyverse, ggplot2)
-- SQL (JOIN, GROUP BY, aggregations)
-- Tableau (basic dashboards)
+### Dataset
+- Sample sales dataset (CSV)
+
+### Tools & Technologies
+- R
+- dplyr
+- ggplot2
+
+### Analysis Steps
+- Data loading and inspection
+- Exploratory data analysis
+- Aggregation of total sales by year
+- Visualization using bar charts
+
+### Key Output
+- Bar chart showing total sales by year
+
+### Project Structure
+data/      - dataset files
+scripts/   - R analysis scripts
+outputs/   - generated outputs and charts
